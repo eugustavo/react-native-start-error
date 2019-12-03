@@ -24,4 +24,6 @@ var sharedBlacklist = [
 ];
 ```
 
-> Read more: https://stackoverflow.com/questions/58120990/how-to-resolve-the-error-on-react-native-start/58199866#58199866
+> Read more:
+> https://stackoverflow.com/questions/58120990/how-to-resolve-the-error-on-react-native-start/58199866#58199866
+> https://stackoverflow.com/questions/58120990/how-to-resolve-the-error-on-react-native-start
