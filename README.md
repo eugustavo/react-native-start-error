@@ -1,4 +1,4 @@
-Erro React Nativa Metro-Bundle
+React Native Metro-Bundle
 ===
 
 #### \node_modules\metro-config\src\defaults\blacklist.js
