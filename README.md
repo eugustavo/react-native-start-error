@@ -1,7 +1,7 @@
 Erro React Nativa Metro-Bundle
 ===
 
-#### h4\node_modules\metro-config\src\defaults\blacklist.js
+#### \node_modules\metro-config\src\defaults\blacklist.js
 ---
 
 ```gherkin=
